@@ -11,7 +11,7 @@ Histopathology refers to the microscopic examination of tissue in order to study
 
 ![Slides](https://github.com/efaro2014/Histopathology_Final_Project/blob/main/figures/slides.png)
 
-As we can see in the picture, the first image represents adenocarcinoma of the lung, followed by normal tissue, and squamous cell carcinoma of the lungs. The last image represnts the normal colon tissue and colons adeno carcinoma. 
+As we can see in the picture, the first image represents adenocarcinoma of the lung, followed by normal tissue, and squamous cell carcinoma of the lungs. The last image represents the normal colon tissue and colon's adeno-carcinoma. 
 
 
 
