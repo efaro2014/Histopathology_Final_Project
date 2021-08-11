@@ -9,7 +9,7 @@ Background
 
 Histopathology refers to the microscopic examination of tissue in order to study the manifestations of disease. Pathologists read microscopic slides to diagnose cancers. Here we got datasets including slides for colon cancer, normal colon tissue, normal lung tissue, squamous cell carcinoma, and adeno-carcinoma of the lungs. 
 
-[image --> pictures link here]
+https://github.com/efaro2014/Histopathology_Final_Project
 
 As we can see in the picture, the first image represents adenocarcinoma of the lung, followed by normal tissue, and squamous cell carcinoma of the lungs. The last image represnts the normal colon tissue and colons adeno carcinoma. 
 
