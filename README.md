@@ -91,6 +91,16 @@ Despite the promising results, it may be more worthwhile to train one binary cla
 
 [INSERT ANALYSIS OF THE MODEL ACCURACIES HERE]
 
+Strategy 3:
+----
+Once the presence and absence of cancer in the slides has been made in the colon as well as in the lungs. The next plan is to make a classification task on the type of lung cancer, whether it is adenocarcinoma of lungs or squamous cell carcinoma. The model’s accuracy is as seen in the plot. 
+
+![Lung Types Accuracy](https://github.com/efaro2014/Histopathology_Final_Project/blob/main/figures/lungaca_lungscc.png)
+
+The model did pretty well on classifying the type of cancers in the lung slides. 
+
+
+
 
 Fine Tuning
 ====
