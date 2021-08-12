@@ -87,9 +87,9 @@ Strategy 2:
 ----
 Despite the promising results, it may be more worthwhile to train one binary classifier on colon cancer and another binary classifier on lung cancer. When this is done, the following results are achieved:
 
-[INSERT DUAL MODEL ACCURACY HERE!]
+![INSERT DUAL MODEL ACCURACY !]()
 
-[INSERT ANALYSIS OF THE MODEL ACCURACIES HERE]
+![INSERT ANALYSIS OF THE MODEL ACCURACIES ]()
 
 Strategy 3:
 ----
